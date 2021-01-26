@@ -1,0 +1,73 @@
+body{
+    background :#1D1E20;
+    width: 100%;
+    
+}
+.navbar{
+    background :#1D1E20;
+    border: 2px solid #1D1E20;
+    color: #13F7D2;
+}
+.nav-link{
+    color:#13F7D2;
+    font-family: "ontserrat" 300;
+    font-size:larger;
+}
+.nav-link:hover{
+
+    font-size:1.1em;
+}
+.icon-bar{
+    color:#13F7D2;
+}
+.geek{
+    height:100%;
+    width:20%;
+    padding-bottom:4%;
+}
+.myimage{
+    width:30%;
+    height:25%;
+    border-radius: 50%;
+    margin-left:20%;
+    margin-top:5%;
+}
+#cross1{
+    height:2%;
+    width:2%;
+    margin-bottom:15%;
+}
+#cross2{
+    height:2%;
+    width:2%;
+    margin-top:40%;
+    margin-left: 10%;
+}
+.circle{
+    height:15%;
+    width: 15%;
+    opacity: 50%;
+    margin-top:30%;
+    margin-left:-40%;
+}
+.col-md-4{
+    justify-items: center;
+    margin-right: auto;
+    
+    margin-top:auto;
+}
+.text{
+    text-align:center;
+    font-family: "montserrat";
+    padding-top:2%;
+    padding-bottom:5%;
+
+}
+@media only screen and (max-width: 600px){
+    .com-sm-6{
+        justify-items:centre;
+    }
+    .image{
+        margin-left:10%;
+    }
+}
